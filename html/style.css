@@ -1,0 +1,15 @@
+h2{
+  font-size:18px;
+  margin-top:0;
+  margin-bottom:0;
+}
+p{
+  font-size:18px;
+}
+.title{
+  height:38px;
+}
+.placeholder{
+  height:auto;
+  width:100%;
+}

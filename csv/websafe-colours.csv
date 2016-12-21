@@ -1,0 +1,216 @@
+#000000,Black,000000,black
+#000033,Stratos,000033,stratos
+#000066,Navy Blue,000066,navy-blue
+#000099,Royal Blue,000099,royal-blue
+#0000cc,Dark Blue,0000cc,dark-blue
+#0000ff,Blue,0000ff,blue
+#003300,Deep Fir,003300,deep-fir
+#003333,Deep Teal,003333,deep-teal
+#003366,Midnight Blue,003366,midnight-blue
+#003399,Smalt,003399,smalt
+#0033cc,International Klein Blue,0033cc,international-klein-blue
+#0033ff,First Place,0033ff,first-place
+#006600,Camarone,006600,camarone
+#006633,Fun Green,006633,fun-green
+#006666,Blue Stone,006666,blue-stone
+#006699,Bahama Blue,006699,bahama-blue
+#0066cc,Science Blue,0066cc,science-blue
+#0066ff,Blue Ribbon,0066ff,blue-ribbon
+#009900,Japanese Laurel,009900,japanese-laurel
+#009933,Pale Fun Green,009933,pale-fun-green
+#009966,Green Haze,009966,green-haze
+#009999,Persian Green,009999,persian-green
+#0099cc,Pacific Blue,0099cc,pacific-blue
+#0099ff,Azure Radiance,0099ff,azure-radiance
+#00cc00,Green,00cc00,green
+#00cc33,Malachite,00cc33,malachite
+#00cc66,Jade,00cc66,jade
+#00cc99,Caribbean Green,00cc99,caribbean-green
+#00cccc,Robins Egg Blue,00cccc,robins-egg-blue
+#00ccff,Aqua,00ccff,aqua
+#00ff00,True Green,00ff00,true-green
+#00ff33,Greener,00ff33,greener
+#00ff66,Easter Green,00ff66,easter-green
+#00ff99,Spring Blue,00ff99,spring-blue
+#00ffcc,Bright Turquoise,00ffcc,bright-turquoise
+#00ffff,Cyan,00ffff,cyan
+#330000,Temptress,330000,temptress
+#330033,Barossa,330033,barossa
+#330066,Christalle,330066,christalle
+#330099,Pigment Indigo,330099,piment-indigo
+#3300cc,Dark Violet,3300cc,dark-violet
+#3300ff,Violet,3300ff,violet
+#333300,Madras,333300,madras
+#333333,Mine Shaft,333333,mine-shaft
+#333366,Rhino,333366,rhino
+#333399,Sapphire,333399,sapphire
+#3333cc,Governor Bay,3333cc,governor-bay
+#3333ff,Gentle Blue,3333ff,gentle-blue
+#336600,Verdun Green,336600,verdun-green
+#336633,Killarney,336633,killarney
+#336666,Casal,336666,casal
+#336699,Gray Azure,336699,gray-azure
+#3366cc,Mariner,3366cc,mariner
+#3366ff,Dodger Blue,3366ff,dodger-blue
+#339900,Limeade,339900,limeade
+#339933,Apple,339933,apple
+#339966,Sea Green,339966,sea-green
+#339999,Lochinvar,339999,lochinvar
+#3399cc,Curious Blue,3399cc,curious-blue
+#3399ff,Bright Dodger Blue,3399ff,bright-dodger-blue
+#33cc00,Harlequin,33cc00,harlequin
+#33cc33,Bright Apple,33cc33,bright-apple
+#33cc66,Emerald,33cc66,emerald
+#33cc99,Shamrock,33cc99,shamrock
+#33cccc,Brilliant Turquoise,33cccc,brilliant-turquoise
+#33ccff,Brightest Dodger Blue,33ccff,brightest-dodger-blue
+#33ff00,Lime,33ff00,lime
+#33ff33,Pale Harlequin,33ff33,pale-harlequin
+#33ff66,Screaming Green,33ff66,screaming-green
+#33ff99,Spring Green,33ff99,spring-green
+#33ffcc,Sky Blue,33ffcc,sky-blue
+#33ffff,Bright Aqua,33ffff,bright-aqua
+#660000,Lonestar,660000,lonestar
+#660033,Tyrian Purple,660033,tyrian-purple
+#660066,Pompadour,660066,pompadour
+#660099,Purple,660099,purple
+#6600cc,Bright Purple,6600cc,bright-purple
+#6600ff,Electric Violet,6600ff,electric-violet
+#663300,Nutmeg Wood Finish,663300,nutmeg-wood-finish
+#663333,Buccaneer,663333,buccaneer
+#663366,Cosmic,663366,cosmic
+#663399,Royal Purple,663399,royal-purple
+#6633cc,Purple Heart,6633cc,purple-heart
+#6633ff,Easter Violet,6633ff,easter-violet
+#666600,Pale Verdun Green,666600,pale-verdun-green
+#666633,Costa Del Sol,666633,costa-del-sol
+#666666,Dove Gray,666666,dove-gray
+#666699,Kimberly,666699,kimberly
+#6666cc,Blue Marguerite,6666cc,blue-marguerite
+#6666ff,Cornflower Blue,6666ff,cornflower-blue
+#669900,Sandy Limeade,669900,sandy-limeade
+#669933,Gray Apple,669933,gray-apple
+#669966,Highland,669966,highland
+#669999,Patina,669999,patina
+#6699cc,Danube,6699cc,danube
+#6699ff,Malibu,6699ff,malibu
+#66cc00,Vivid Green,66cc00,vivid-green
+#66cc33,Atlantis,66cc33,atlantis
+#66cc66,Mantis,66cc66,mantis
+#66cc99,Blue Emerald,66cc99,blue-emerald
+#66cccc,Downy,66cccc,downy
+#66ccff,Light Malibu,66ccff,light-malibu
+#66ff00,Brilliant Green,66ff00,brilliant-green
+#66ff33,Light Green,66ff33,light-green
+#66ff66,Pale Green,66ff66,pale-green
+#66ff99,Screaming Blue,66ff99,screaming-blue
+#66ffcc,Aquamarine,66ffcc,aquamarine
+#66ffff,Bright Aquamarine,66ffff,bright-aquamarine
+#990000,Red Berry,990000,red-berry
+#990033,Paprika,990033,paprika
+#990066,Fresh Eggplant,990066,fresh-eggplant
+#990099,Flirt,990099,flirt
+#9900cc,Flaming Purple,9900cc,flaming-purple
+#9900ff,High Voltage Purple,9900ff,high-voltage-purple
+#993300,Oregon,993300,oregon
+#993333,Stiletto,993333,stiletto
+#993366,Rouge,993366,rouge
+#993399,Plum,993399,plum
+#9933cc,Grape,9933cc,grape
+#9933ff,Pink and Purple,9933ff,pink-and-purple
+#996600,Chelsea Gem,996600,chelsea-gem
+#996633,Potters Clay,996633,potters-clay
+#996666,Copper Rose,996666,copper-rose
+#996699,Strikemaster,996699,strikemaster
+#9966cc,Amethyst,9966cc,amethyst
+#9966ff,Heliotrope,9966ff,heliotrope
+#999900,Olive,999900,olive
+#999933,Sycamore,999933,sycamore
+#999966,Avocado,999966,avocado
+#999999,Dusty Gray,999999,dusty-gray
+#9999cc,Blue Bell,9999cc,blue-bell
+#9999ff,Melrose,9999ff,melrose
+#99cc00,Pistachio,99cc00,pistachio
+#99cc33,Smoky Atlantis,99cc33,smoky-atlantis
+#99cc66,Wild Willow,99cc66,wild-willow
+#99cc99,De York,99cc99,de-york
+#99cccc,Sinbad,99cccc,sinbad
+#99ccff,Anakiwa,99ccff,anakiwa
+#99ff00,Chartreuse,99ff00,chartreuse
+#99ff33,Green Yellow,99ff33,green-yellow
+#99ff66,Dusty Green,99ff66,dusty-green
+#99ff99,Mint Green,99ff99,mint-green
+#99ffcc,Verbose Turquoise,99ffcc,verbose-turquoise
+#99ffff,Light Blue,99ffff,light-blue
+#cc0000,Guardsman Red,cc0000,guardsman-red
+#cc0033,Monza,cc0033,monza
+#cc0066,Lipstick,cc0066,lipstick
+#cc0099,Hollywood Cerise,cc0099,hollywood-cerise
+#cc00cc,Purple Pizzazz,cc00cc,purple-pizzazz
+#cc00ff,Electric Pink,cc00ff,electric-pink
+#cc3300,Grenadier,cc3300,grenadier
+#cc3333,Persian Red,cc3333,persian-red
+#cc3366,Hibiscus,cc3366,hibiscus
+#cc3399,Medium Red Violet,cc3399,medium-red-violet
+#cc33cc,Fuchsia Pink,cc33cc,fuchsia-pink
+#cc33ff,Easter Pink,cc33ff,easter-pink
+#cc6600,Tenn,cc6600,tenn
+#cc6633,Tuscany,cc6633,tuscany
+#cc6666,Chestnut Rose,cc6666,chestnut-rose
+#cc6699,Hopbush,cc6699,hopbush
+#cc66cc,Dusty Rose,cc66cc,dusty-rose
+#cc66ff,Bubblegum,cc66ff,bubblegum
+#cc9900,Buddha Gold,cc9900,buddha-gold
+#cc9933,Hokey Pokey,cc9933,hokey-pokey
+#cc9966,Antique Brass,cc9966,antique-brass
+#cc9999,Eunry,cc9999,eunry
+#cc99cc,Lilac,cc99cc,lilac
+#cc99ff,Mauve,cc99ff,mauve
+#cccc00,Rio Grande,cccc00,rio-grande
+#cccc33,Earls Green,cccc33,earls-green
+#cccc66,Laser,cccc66,laser
+#cccc99,Pine Glade,cccc99,pine-glade
+#cccccc,Silver,cccccc,silver
+#ccccff,Periwinkle,ccccff,periwinkle
+#ccff00,Electric Lime,ccff00,electric-lime
+#ccff33,Yellow Green,ccff33,yellow-green
+#ccff66,Canary,ccff66,canary
+#ccff99,Reef,ccff99,reef
+#ccffcc,Snowy Mint,ccffcc,snowy-mint
+#ccffff,Onahau,ccffff,onahau
+#ff0000,Red,ff0000,red-berry
+#ff0033,Torch Red,ff0033,torch-red
+#ff0066,Rose,ff0066,rose
+#ff0099,Cerise,ff0099,cerise
+#ff00cc,Electric Cerise,ff00cc,electric-cerise
+#ff00ff,Magenta,ff00ff,magenta
+#ff3300,Scarlet,ff3300,scarlet
+#ff3333,Red Orange,ff3333,red-orange
+#ff3366,Radical Red,ff3366,radical-red
+#ff3399,Wild Strawberry,ff3399,wild-strawberry
+#ff33cc,Razzle Dazzle Rose,ff33cc,razzle-dazzle-red
+#ff33ff,Barbie Pink,ff33ff,barvie-pink
+#ff6600,Blaze Orange,ff6600,blaze-orange
+#ff6633,Outrageous Orange,ff6633,outrageous-orange
+#ff6666,Bittersweet,ff6666,bittersweet
+#ff6699,Coral,ff6699,coral
+#ff66cc,Pink,ff66cc,pink-and-purple
+#ff66ff,Pink Flamingo,ff66ff,pink-flamingo
+#ff9900,Orange Peel,ff9900,orange-peel
+#ff9933,Pale Orange,ff9933,pale-orange
+#ff9966,Atomic Tangerine,ff9966,atomic-tangerine
+#ff9999,Mona Lisa,ff9999,mona-lisa
+#ff99cc,Carnation Pink,ff99cc,carnation-pink
+#ff99ff,Lavendar Rose,ff99ff,lavendar-rose
+#ffcc00,Supernova,ffcc00,supernova
+#ffcc33,Sunglow,ffcc33,sunglow
+#ffcc66,Golden Tainoi,ffcc66,golden-tainoi
+#ffcc99,Peach,ffcc99,peach
+#ffcccc,Baby Pink,ffcccc,baby-pink
+#ffccff,Pink Lace,ffccff,pink-lace
+#ffff00,Yellow,ffff00,yellow
+#ffff33,Golden Fizz,ffff33,golden-fizz
+#ffff66,Laser Lemon,ffff66,laser-lemon
+#ffff99,Pale Canary,ffff99,pale-canary
+#ffffcc,Cream,ffffcc,cream
+#ffffff,White,ffffff,white
